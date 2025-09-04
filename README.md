@@ -2,9 +2,11 @@
 Untuk Chat secara rahasia di group atau tempat umum. Jika anda bisa mengembangkan bahasa ini dan membuat aplikasi terjemah melayang untuk memudahkan penggunaan
 
 # Cara Run Code
-cd path/to/your/folder
-chmod +x run.sh
-bash run.sh
+<br>1.pkg install nodejs<br>
+<br>2.npm install -g bash-obfuscate<br>
+3.cd path/to/your/folder
+4.chmod +x run.sh
+5.bash run.sh
 
 # kode 
 terdapat 
