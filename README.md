@@ -4,9 +4,10 @@ Untuk Chat secara rahasia di group atau tempat umum. Jika anda bisa mengembangka
 # Cara Run Code
 <br>1.pkg install nodejs<br>
 <br>2.npm install -g bash-obfuscate<br>
-<br>3.cd path/to/your/folder<br>
-<br>4.chmod +x run.sh<br>
-<br>5.bash run.sh<br>
+<br>3.git clone https://github.com/Guwendeng/Bahasa-Alien.git
+<br>4.cd path/to/your/folder<br>
+<br>5.chmod +x run.sh<br>
+<br>6.bash run.sh<br>
 
 # kode 
 <br>terdapat 
