@@ -4,14 +4,14 @@ Untuk Chat secara rahasia di group atau tempat umum. Jika anda bisa mengembangka
 # Cara Run Code
 <br>1.pkg install nodejs<br>
 <br>2.npm install -g bash-obfuscate<br>
-3.cd path/to/your/folder
-4.chmod +x run.sh
-5.bash run.sh
+<br>3.cd path/to/your/folder<br>
+<br>4.chmod +x run.sh<br>
+<br>5.bash run.sh<br>
 
 # kode 
-terdapat 
--Alang.py 
--Alang.java
--Alang.html
--Alang.apk
-Tinggal pilih untuk di pakai
+<br>terdapat 
+<br>-Alang.py 
+<br>-Alang.java
+<br>-Alang.html
+<br>-Alang.apk
+<br>Tinggal pilih untuk di pakai
