@@ -5,7 +5,7 @@ Untuk Chat secara rahasia di group atau tempat umum. Jika anda bisa mengembangka
 <br>1.pkg install nodejs<br>
 <br>2.npm install -g bash-obfuscate<br>
 <br>3.git clone https://github.com/Guwendeng/Bahasa-Alien.git
-<br>4.cd path/to/your/folder<br>
+<br>4.cd Bahasa-Alien<br>
 <br>5.chmod +x run.sh<br>
 <br>6.bash run.sh<br>
 
